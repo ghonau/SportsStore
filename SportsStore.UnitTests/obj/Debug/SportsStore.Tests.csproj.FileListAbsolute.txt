@@ -1,0 +1,5 @@
+C:\Personal\PersonalWorkSpace\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.dll
+C:\Personal\PersonalWorkSpace\SportsStore\SportsStore.Tests\bin\Debug\SportsStore.Tests.pdb
+C:\Personal\PersonalWorkSpace\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Personal\PersonalWorkSpace\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.dll
+C:\Personal\PersonalWorkSpace\SportsStore\SportsStore.Tests\obj\Debug\SportsStore.Tests.pdb
