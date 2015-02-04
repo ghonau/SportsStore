@@ -64,3 +64,7 @@ C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\System.Web.Webpag
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml

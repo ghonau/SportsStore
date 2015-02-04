@@ -33,3 +33,9 @@ C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\System.Web
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\System.Web.WebPages.Razor.xml
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.dll
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.pdb
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\SportsStore.Domain.dll.config
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.dll
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.xml
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.Domain\obj\Debug\SportsStore.Domain.csprojResolveAssemblyReference.cache

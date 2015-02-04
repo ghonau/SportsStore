@@ -64,5 +64,7 @@ C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\bin\Debug\System.
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.csprojResolveAssemblyReference.cache
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.dll
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\obj\Debug\SportsStore.UnitTests.pdb
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.dll
+C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\bin\Debug\EntityFramework.xml
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.dll
 C:\Personal\WorkingDirectory\SportsStore\SportsStore.UnitTests\bin\Debug\Moq.xml
